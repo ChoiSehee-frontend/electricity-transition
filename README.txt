@@ -18,8 +18,6 @@
 6. Part B SVG는 해당 버튼, PDF는 브라우저 인쇄로 저장할 수 있습니다.
 
 온라인 게시 (가산점 검토 대상):
-Part A https://electricity-transition-20261023.cuddlybloom128.chatgpt.site/
-Part B https://electricity-transition-20261023.cuddlybloom128.chatgpt.site/story
-보고서 https://electricity-transition-20261023.cuddlybloom128.chatgpt.site/report
-공개 사이트이며, 교수자 계정에서의 직접 검증은 하지 않았습니다.
-원자료를 여러 출처에서 직접 결합한 작업으로 주장하지 않습니다.
+Part A https://electricty-transition-visualizaiton.netlify.app/
+Part B https://electricty-transition-visualizaiton.netlify.app/story
+보고서 https://electricty-transition-visualizaiton.netlify.app/report
